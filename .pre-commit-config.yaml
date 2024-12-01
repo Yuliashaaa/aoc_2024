@@ -1,0 +1,31 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: cef0300fd0fc4d2a87a85fa2093c6b283ea36f4b   # frozen: v5.0.0
+    hooks:
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+      - id: trailing-whitespace
+  - repo: https://github.com/psf/black
+    rev: 1b2427a2b785cc4aac97c19bb4b9a0de063f9547   # frozen: v24.10.0
+    hooks:
+      - id: black
+        args: ["--skip-string-normalization"]
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: 859e42ab7d54544f32d4f73bbc2136a7d9094f54   # frozen: v0.8.1
+    hooks:
+      - id: ruff
+  - repo: https://github.com/pycqa/isort
+    rev: c655831799765e9593989ee12faba13b6ca391a5   # frozen: v5.13.2
+    hooks:
+      - id: isort
+  - repo: https://github.com/dosisod/refurb
+    rev: 2e31f0033b6c00bf99912fc6a8b5fd00460c9ba0   # frozen: v2.0.0
+    hooks:
+      - id: refurb
+  - repo: https://github.com/pdm-project/pdm
+    rev: 8573f951eb782596f91148753305c5bf0ade3ae6   # frozen: v2.21.0
+    hooks:
+      - id: pdm-lock-check
+
+default_language_version:
+  python: python3.13

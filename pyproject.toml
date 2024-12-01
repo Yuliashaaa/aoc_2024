@@ -1,0 +1,62 @@
+[project]
+name = "aoc_2024"
+version = "0.0.1"
+description = "Advent of Code 2024"
+authors = [
+    {name = "Yuliia Shevchenko", email = "ulka.shevchenko@gmail.com"},
+]
+dependencies = []
+requires-python = "==3.13.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+[tool.pdm.options]
+sync = ["--no-self"]
+install = ["--no-self"]
+lock = ["--update-reuse", "-G:all", "--implementation=cpython", "--python=3.13"]
+update = ["--no-self"]
+remove = ["--no-self"]
+
+[tool.black]
+line-length = 120
+target-version = ["py313"]
+skip-string-normalization = true
+
+[tool.isort]
+line_length = 120
+profile = "black"
+
+[tool.ruff]
+fix = true
+line-length = 120
+show-fixes = true
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["ALL"]
+extend-select = ["Q000"]
+ignore = [
+    "ANN001", # Missing type annotation for function argument
+    "ANN201", # Missing return type annotation for public function
+    "COM812",
+    "D100", # Missing docstring in public module
+    "D104", # Missing docstring in public package
+    "E741", # Ambiguous variable name
+    "ISC001",
+    "T201", # `print` found
+]
+extend-ignore = [
+    "Q001",
+    "Q001",
+    "Q003",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.flake8-quotes]
+inline-quotes = "single"
+multiline-quotes = "single"
+
+[tool.ruff.lint.mccabe]
+max-complexity = 12
