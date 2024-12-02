@@ -27,6 +27,7 @@ Each puzzle is linked for convenience:
 | Day | Title                                                     | Part 1 Solution              | Part 2 Solution              |
 |-----|-----------------------------------------------------------|------------------------------|------------------------------|
 | 1   | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Code](src/day_01/part_1.py) | [Code](src/day_01/part_2.py) |
+| 2   | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Code](src/day_02/part_1.py) | [Code](src/day_02/part_2.py) |
 | ... | ...                                                       | ...                          | ...                          |
 
 ## 📜 How to Run Solutions
@@ -71,7 +72,7 @@ If you’d like to suggest improvements or find any bugs in the solutions, feel 
 2. Create a branch with your changes.
 3. Open a pull request.
 
-## 🎅 About Advent of Code
+## 🎅 About the Advent of Code
 Advent of Code is created by Eric Wastl. Check out the official website at [adventofcode.com](https://adventofcode.com/).
 
 Enjoy the puzzles and happy coding! 🎄✨
