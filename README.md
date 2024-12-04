@@ -28,6 +28,7 @@ Each puzzle is linked for convenience:
 |-----|-----------------------------------------------------------|------------------------------|------------------------------|
 | 1   | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Code](src/day_01/part_1.py) | [Code](src/day_01/part_2.py) |
 | 2   | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Code](src/day_02/part_1.py) | [Code](src/day_02/part_2.py) |
+| 3   | [Mull It Over](https://adventofcode.com/2024/day/3)       | [Code](src/day_03/part_1.py) | [Code](src/day_03/part_2.py) |
 | ... | ...                                                       | ...                          | ...                          |
 
 ## 📜 How to Run Solutions
