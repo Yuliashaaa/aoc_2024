@@ -24,13 +24,17 @@ src/
 ## 🧩 Links to Puzzle Descriptions
 Each puzzle is linked for convenience:
 
-| Day | Title                                                     | Part 1 Solution              | Part 2 Solution              |
-|-----|-----------------------------------------------------------|------------------------------|------------------------------|
-| 1   | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Code](src/day_01/part_1.py) | [Code](src/day_01/part_2.py) |
-| 2   | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Code](src/day_02/part_1.py) | [Code](src/day_02/part_2.py) |
-| 3   | [Mull It Over](https://adventofcode.com/2024/day/3)       | [Code](src/day_03/part_1.py) | [Code](src/day_03/part_2.py) |
-| 4   | [Ceres Search](https://adventofcode.com/2024/day/4)       | [Code](src/day_04/part_1.py) | [Code](src/day_04/part_2.py) |
-| ... | ...                                                       | ...                          | ...                          |
+| Day | Title                                                        | Part 1 Solution              | Part 2 Solution              |
+|-----|--------------------------------------------------------------|------------------------------|------------------------------|
+| 1   | [Historian Hysteria](https://adventofcode.com/2024/day/1)    | [Code](src/day_01/part_1.py) | [Code](src/day_01/part_2.py) |
+| 2   | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)     | [Code](src/day_02/part_1.py) | [Code](src/day_02/part_2.py) |
+| 3   | [Mull It Over](https://adventofcode.com/2024/day/3)          | [Code](src/day_03/part_1.py) | [Code](src/day_03/part_2.py) |
+| 4   | [Ceres Search](https://adventofcode.com/2024/day/4)          | [Code](src/day_04/part_1.py) | [Code](src/day_04/part_2.py) |
+| 5   | [Print Queue](https://adventofcode.com/2024/day/5)           | [Code](src/day_05/part_1.py) | [Code](src/day_05/part_2.py) |
+| 6   | [Guard Gallivant](https://adventofcode.com/2024/day/6)       | [Code](src/day_06/part_1.py) | [Code](src/day_06/part_2.py) |
+| 7   | [Bridge Repair](https://adventofcode.com/2024/day/7)         | [Code](src/day_07/part_1.py) | [Code](src/day_07/part_2.py) |
+| 8   | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Code](src/day_08/part_1.py) | [Code](src/day_08/part_2.py) |
+| ... | ...                                                          | ...                          | ...                          |
 
 ## 📜 How to Run Solutions
 
