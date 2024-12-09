@@ -34,6 +34,7 @@ Each puzzle is linked for convenience:
 | 6   | [Guard Gallivant](https://adventofcode.com/2024/day/6)       | [Code](src/day_06/part_1.py) | [Code](src/day_06/part_2.py) |
 | 7   | [Bridge Repair](https://adventofcode.com/2024/day/7)         | [Code](src/day_07/part_1.py) | [Code](src/day_07/part_2.py) |
 | 8   | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Code](src/day_08/part_1.py) | [Code](src/day_08/part_2.py) |
+| 9   | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Code](src/day_09/part_1.py) | [Code](src/day_09/part_2.py) |
 | ... | ...                                                          | ...                          | ...                          |
 
 ## 📜 How to Run Solutions
