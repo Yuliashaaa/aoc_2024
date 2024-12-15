@@ -35,6 +35,7 @@ Each puzzle is linked for convenience:
 | 7   | [Bridge Repair](https://adventofcode.com/2024/day/7)         | [Code](src/day_07/part_1.py) | [Code](src/day_07/part_2.py) |
 | 8   | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Code](src/day_08/part_1.py) | [Code](src/day_08/part_2.py) |
 | 9   | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Code](src/day_09/part_1.py) | [Code](src/day_09/part_2.py) |
+| 14  | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Code](src/day_14/part_1.py) | [Code](src/day_14/part_2.py) |
 | ... | ...                                                          | ...                          | ...                          |
 
 ## 📜 How to Run Solutions
