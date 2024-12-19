@@ -36,6 +36,7 @@ Each puzzle is linked for convenience:
 | 8   | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Code](src/day_08/part_1.py) | [Code](src/day_08/part_2.py) |
 | 9   | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Code](src/day_09/part_1.py) | [Code](src/day_09/part_2.py) |
 | 10  | [Hoof It](https://adventofcode.com/2024/day/10)              | [Code](src/day_10/part_1.py) | [Code](src/day_10/part_2.py) |
+| 11  | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)    | [Code](src/day_11/part_1.py) | [Code](src/day_11/part_2.py) |
 | 14  | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Code](src/day_14/part_1.py) | [Code](src/day_14/part_2.py) |
 | ... | ...                                                          | ...                          | ...                          |
 
