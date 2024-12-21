@@ -5,7 +5,9 @@ description = "Advent of Code 2024"
 authors = [
     {name = "Yuliia Shevchenko", email = "ulka.shevchenko@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "tqdm>=4.67.1",
+]
 requires-python = "==3.13.*"
 readme = "README.md"
 license = {text = "MIT"}
