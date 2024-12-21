@@ -21,7 +21,7 @@ src/
 ...
 ```
 
-## 🧩 Links to Puzzle Descriptions
+## 🧩 Links to Puzzles
 Each puzzle is linked for convenience:
 
 | Day | Title                                                        | Part 1 Solution              | Part 2 Solution              |
@@ -54,7 +54,7 @@ To run a solution for a specific day:
    cd aoc-2024
    ```
 
-2. Make sure you have Python 3.13 installed.
+2. Make sure you have Python 3.13 installed
 
 3. Navigate to the day's folder:
    ```bash
@@ -69,24 +69,24 @@ To run a solution for a specific day:
 ## 🔧 Tools and Libraries
 This repository uses the following tools to keep code clean and efficient:
 
-- Black – Code formatter.
-- Ruff – Linter for Python.
-- Pre-commit – Enforces consistent code style.
-- PDM – For dependency management.
+- Black – Code formatter
+- Ruff – Linter for Python
+- Pre-commit – Enforces consistent code style
+- PDM – For dependency management
 
 ## 🎯 Why Participate?
-- Sharpen your coding skills.
-- Learn new algorithms and data structures.
-- Have fun solving puzzles while competing with a global community of developers.
+- Sharpen your coding skills
+- Learn new algorithms and data structures
+- Have fun solving puzzles while competing with a global community of developers
 
 ## 🚀 Contribute
 If you’d like to suggest improvements or find any bugs in the solutions, feel free to:
 
-1. Fork this repository.
-2. Create a branch with your changes.
-3. Open a pull request.
+1. Fork this repository
+2. Create a branch with your changes
+3. Open a pull request
 
 ## 🎅 About the Advent of Code
-Advent of Code is created by Eric Wastl. Check out the official website at [adventofcode.com](https://adventofcode.com/).
+Advent of Code is created by Eric Wastl. Check out the official website at [adventofcode.com](https://adventofcode.com/)
 
 Enjoy the puzzles and happy coding! 🎄✨
