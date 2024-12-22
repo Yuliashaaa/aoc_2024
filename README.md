@@ -42,6 +42,7 @@ Each puzzle is linked for convenience:
 | 19  | [Linen Layout](https://adventofcode.com/2024/day/19)         | [Code](src/day_19/part_1.py) | [Code](src/day_19/part_2.py) |
 | 20  | [Race Condition](https://adventofcode.com/2024/day/20)       | [Code](src/day_20/part_1.py) | [Code](src/day_20/part_2.py) |
 | 21  | [Keypad Conundrum](https://adventofcode.com/2024/day/21)     | [Code](src/day_21/part_1.py) | [Code](src/day_21/part_2.py) |
+| 22  | [Monkey Market](https://adventofcode.com/2024/day/22)        | [Code](src/day_22/part_1.py) | [Code](src/day_22/part_2.py) |
 | ... | ...                                                          | ...                          | ...                          |
 
 ## 📜 How to Run Solutions
