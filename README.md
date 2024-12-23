@@ -38,6 +38,7 @@ Each puzzle is linked for convenience:
 | 10  | [Hoof It](https://adventofcode.com/2024/day/10)              | [Code](src/day_10/part_1.py) | [Code](src/day_10/part_2.py) |
 | 11  | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)    | [Code](src/day_11/part_1.py) | [Code](src/day_11/part_2.py) |
 | 12  | [Garden Groups](https://adventofcode.com/2024/day/12)        | [Code](src/day_12/part_1.py) | [Code](src/day_12/part_2.py) |
+| 13  | [Claw Contraption](https://adventofcode.com/2024/day/13)     | [Code](src/day_13/part_1.py) | [Code](src/day_13/part_2.py) |
 | 14  | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Code](src/day_14/part_1.py) | [Code](src/day_14/part_2.py) |
 | 18  | [RAM Run](https://adventofcode.com/2024/day/18)              | [Code](src/day_18/part_1.py) | [Code](src/day_18/part_2.py) |
 | 19  | [Linen Layout](https://adventofcode.com/2024/day/19)         | [Code](src/day_19/part_1.py) | [Code](src/day_19/part_2.py) |
