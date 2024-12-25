@@ -40,6 +40,7 @@ Each puzzle is linked for convenience:
 | 12  | [Garden Groups](https://adventofcode.com/2024/day/12)        | [Code](src/day_12/part_1.py) | [Code](src/day_12/part_2.py) |
 | 13  | [Claw Contraption](https://adventofcode.com/2024/day/13)     | [Code](src/day_13/part_1.py) | [Code](src/day_13/part_2.py) |
 | 14  | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Code](src/day_14/part_1.py) | [Code](src/day_14/part_2.py) |
+| 15  | [Warehouse Woes](https://adventofcode.com/2024/day/15)       | [Code](src/day_15/part_1.py) | [Code](src/day_15/part_2.py) |
 | 18  | [RAM Run](https://adventofcode.com/2024/day/18)              | [Code](src/day_18/part_1.py) | [Code](src/day_18/part_2.py) |
 | 19  | [Linen Layout](https://adventofcode.com/2024/day/19)         | [Code](src/day_19/part_1.py) | [Code](src/day_19/part_2.py) |
 | 20  | [Race Condition](https://adventofcode.com/2024/day/20)       | [Code](src/day_20/part_1.py) | [Code](src/day_20/part_2.py) |
